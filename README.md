@@ -78,9 +78,9 @@ Building an eco-friendly community platform promoting sustainable practices and 
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamahaMunir&show_icons=true&theme=radical)](https://github.com/SamahaMunir)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamahaMunir&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamahaMunir&layout=compact&theme=radical)](https://github.com/SamahaMunir)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamahaMunir&layout=compact&theme=radical)
 
 ---
 
