@@ -48,13 +48,9 @@ Addressing mental health gaps through AI-powered therapy and healthcare coordina
 
 ### Other Projects
 
-**Art Gallery Website - DBMS**  
-Database design with PHP RESTful API and MySQL normalization  
-[GitHub](https://github.com/SamahaMunir)
-
-**Gourmet Meal Ordering Platform**  
-Responsive food ordering system with HTML, CSS, Bootstrap, JavaScript  
-[GitHub](https://github.com/SamahaMunir)
+**EcoMate - Sustainable Living Platform**  
+Building an eco-friendly community platform promoting sustainable practices and environmental awareness.  
+[GitHub](https://github.com/SamahaMunir/EcoMate)
 
 ---
 
@@ -94,7 +90,7 @@ Responsive food ordering system with HTML, CSS, Bootstrap, JavaScript
 - **Portfolio:** [samaha-munir.onrender.com](https://samaha-munir.onrender.com/)
 - **Email:** samimurir196@gmail.com
 
-  
+
 ---
 
 ## Fun Facts
